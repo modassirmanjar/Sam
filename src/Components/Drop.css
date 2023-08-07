@@ -1,0 +1,84 @@
+#hide,#hide1,#hide2,#hide3,#hide4,#hide5,#hide6,#hide7,#hide8,#hide8i,#hide8ii,#hide9,#hide10,#hide10i
+{
+
+display: none;
+}
+#arr,#arr1,#arr2,#arr3,#arr4,#arr5,#arr6,#arr7,#arr8,#arr8i,#arr8ii,#arr9,#arr10,#arr10i
+{
+    color: white;
+    position: absolute;
+    right: 0;
+}
+p{
+    padding-top: 5px;
+    position: relative;
+    margin-bottom: -10;
+    width: 92%;
+
+  height: 40px;
+
+  padding-left: 10px;
+
+  left:3%;
+
+  font-size: 15px;
+  color: white;
+  border-radius: 5px;
+
+  background-color: rgb(57,61,61);
+}
+#val:hover{
+
+    border:1px solid  none;
+  
+    background-color: rgba(138, 202, 82, 0.436);
+  
+  }#val:visited{
+  
+    background-color: rgba(57, 196, 26, 0.436);
+  
+  }
+  
+  #drops p{
+    margin-bottom: 2px;
+  }.select{
+    background-color:  #5cb8fe;
+  }.select:hover{
+    background-color:  #1793f1;
+  }
+  
+  .set{
+    background-color: rgb(57,61,61);
+  }
+  
+  .set:hover{
+    background-color:rgb(57,61,61);
+  }
+
+  #icon{
+    margin-right: 15px;  
+  }
+  .wig,.layout,.charts,.ui,.forms,.tables,.example,.calender,.gallery,.Kanban,.mail,.page,.extra,.search1,.imp,.lab,.miss,.tabbed,.doc,.multi,.lev1,.select{
+    background-color: black;
+    
+  }
+  #cust 
+  {
+    font-size:12px;
+  }
+  #impc
+  {
+    color: red;
+  }
+  #warnc
+  {
+    color: aquamarine;
+  }
+  #inforc
+  {
+    color: yellowgreen;
+  }
+  .c3 p,.log
+  {
+    background-color: rgb(181,182,182);
+  }
